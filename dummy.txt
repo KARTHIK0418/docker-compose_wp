@@ -1,3 +1,4 @@
 pwd
 whoami
 echo
+echo hi
